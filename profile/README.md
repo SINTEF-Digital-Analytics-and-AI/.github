@@ -20,5 +20,8 @@ for more about who we are and what we do.
 ## Contact
 
 For questions about a specific project, please open an issue or discussion on
-that project's repository. For general enquiries, reach us through our
+that project's repository. For general enquiries, contact
+[Signe Riemer-Sørensen](https://www.sintef.no/en/all-employees/employee/signe.riemer-sorensen/),
+Research Manager for Analytics and AI. Contact details for other researchers in
+the group can be found on our
 [group webpage](https://www.sintef.no/en/digital/departments/mathematics-and-cybernetics/analytics-and-artificial-intelligence/).
