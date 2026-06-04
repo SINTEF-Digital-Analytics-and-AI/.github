@@ -9,11 +9,12 @@ for more about who we are and what we do.
 
 | Project | Description |
 |---|---|
-| **[Pseudo-Hamiltonian Neural Networks](https://github.com/SINTEF/pseudo-hamiltonian-neural-networks)** | The `phlearn` package for modelling pseudo-Hamiltonian systems with neural networks (PHNN), for both ODEs and PDEs. Installable with `pip install phlearn`. |
-| **[ReWTS](https://github.com/SINTEF/rewts)** | A Recency-Weighted Temporally-Segmented ensemble for multi-step time-series forecasting, designed to adapt to evolving dynamics in process-industry data. |
-| **[Road Graph Generator](https://github.com/katarzynamichalowska/road-graph-generator)** | A tool for mapping roads at construction sites from GPS data, generating road graphs from collected location data. |
+| **[Pseudo-Hamiltonian Neural Networks](https://github.com/SINTEF/pseudo-hamiltonian-neural-networks)** | The `phlearn` package for modelling pseudo-Hamiltonian systems with neural networks (PHNN), for both ODEs and PDEs. Installable with `pip install phlearn`. Papers: [Eidnes et al., 2023 (Physica D)](https://doi.org/10.1016/j.physd.2023.133673) ([arXiv](https://arxiv.org/abs/2206.02660)), [Eidnes & Lye, 2024 (J. Comput. Phys.)](https://doi.org/10.1016/j.jcp.2023.112738) ([arXiv](https://arxiv.org/abs/2304.14374)). |
+| **[DON-LSTM](https://github.com/katarzynamichalowska/don-lstm)** | An architecture combining DeepONets and LSTMs for multi-resolution learning of dynamical systems, giving accurate long-time predictions of PDEs while needing fewer high-resolution samples. Paper: [Michałowska et al., 2025 (Neurocomputing)](https://www.sciencedirect.com/science/article/pii/S0925231225018260) ([arXiv](https://arxiv.org/abs/2310.02491)). |
+| **[ReWTS](https://github.com/SINTEF/rewts)** | A Recency-Weighted Temporally-Segmented ensemble for multi-step time-series forecasting, designed to adapt to evolving dynamics in process-industry data. Paper: [Johnsen et al., 2025 (JAIR)](https://www.jair.org/index.php/jair/article/view/17572). |
+| **[Road Graph Generator](https://github.com/katarzynamichalowska/road-graph-generator)** | A tool for mapping roads at construction sites from GPS data, generating road graphs from collected location data. Paper: [Michałowska et al., 2025 (Knowledge-Based Systems)](https://www.sciencedirect.com/science/article/pii/S0950705125005477) ([arXiv](https://arxiv.org/abs/2402.09919)). |
 | **[Robust ML](https://github.com/katarzynamichalowska/robust-ml)** | Machine learning methods and an evaluation framework for building models that stay reliable under noise, outliers, and distribution shift. |
-| **[NLDL Tutorial](https://github.com/SINTEF-Digital-Analytics-and-AI/NLDL-tutorial)** | Tutorial materials accompanying our NLDL contribution. |
+| **[NLDL Tutorial](https://github.com/SINTEF-Digital-Analytics-and-AI/NLDL-tutorial)** | Hands-on tutorial from the Northern Lights Deep Learning (NLDL) 2025 Winter School in Tromsø, on structure-preserving machine learning for physical systems. Three Google Colab notebooks covering physics-informed neural networks (PINNs), pseudo-Hamiltonian neural networks (PHNNs), and Hamiltonian neural networks (HNNs). |
 
 ## Contact
 
