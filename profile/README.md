@@ -2,7 +2,8 @@
 
 We are the Analytics and AI group at SINTEF Digital, based in Oslo. We work on
 machine learning and data-driven modelling across scientific computing,
-time-series forecasting, and applied AI for industry. Visit our group webpage
+time-series forecasting, and applied AI for industry. Visit our
+[group webpage](https://www.sintef.no/en/digital/departments/mathematics-and-cybernetics/analytics-and-artificial-intelligence/)
 for more about who we are and what we do.
 
 ## Open source software
@@ -19,5 +20,5 @@ for more about who we are and what we do.
 ## Contact
 
 For questions about a specific project, please open an issue or discussion on
-that project's repository. For general enquiries, reach us through our group
-webpage.
+that project's repository. For general enquiries, reach us through our
+[group webpage](https://www.sintef.no/en/digital/departments/mathematics-and-cybernetics/analytics-and-artificial-intelligence/).
